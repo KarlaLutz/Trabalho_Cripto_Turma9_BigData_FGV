@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Criar modelo preditivo, para construção de robô para operar criptomoedas. Além do dataset fornecido pelo professor, foi utilizada API (https://lunarcrush.com/developers/docs#) com features adicionais de redes sociais, interações, etc.
+Criar modelo preditivo, para construção de robô para operar criptomoedas, especificamente neste trabalho analisaremos a Bitcoin. Além do dataset fornecido pelo professor, foi utilizada API (https://lunarcrush.com/developers/docs#) com features adicionais de redes sociais, interações, etc.
 
 
 ### Conclusões
