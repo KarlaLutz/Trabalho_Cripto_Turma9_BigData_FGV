@@ -1,3 +1,5 @@
+<img src="https://github.com/KarlaLutz/cripto/blob/main/An%C3%A1lise%20Preditiva%20Avan%C3%A7ada.pdf">
+
 # Trabalho da disciplina de Análise Preditiva Avançada do curso de Business Analytics e Big Data da FGV
 
 ## Alunos
