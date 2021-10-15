@@ -1,4 +1,4 @@
-<img src="https://github.com/KarlaLutz/cripto/blob/main/An%C3%A1lise%20Preditiva%20Avan%C3%A7ada.jpg">
+<img src="https://github.com/KarlaLutz/cripto/blob/main/trab%20analise%20pred%20avan%C3%A7ada.jpg">
 
 ### Objetivo
 
